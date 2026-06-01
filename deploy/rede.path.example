@@ -1,0 +1,3 @@
+# Uma linha: pasta DATA (obrigatório terminar em \DATA)
+# ERRADO: Z:\0 OBRAS  ou  Z:\...\Sistema_de_atestado_brasul  (cria output/logs fora de DATA)
+Z:\0 OBRAS\Sistema_de_atestado_brasul\DATA

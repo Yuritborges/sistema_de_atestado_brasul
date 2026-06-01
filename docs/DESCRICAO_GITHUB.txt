@@ -1,0 +1,1 @@
+Sistema desktop da Brasul para consultar e cadastrar códigos FDE em atestados de obras. Planilha compartilhada na rede (Z:), busca por obra/código/descrição, filtros Acumulado/Quantitativa, cadastro manual, backup automático e atualização em tempo real entre usuários.
